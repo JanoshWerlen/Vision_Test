@@ -1,0 +1,8 @@
+*.jpg
+*.png
+Video_tests/
+*.env
+*.mp3
+*.mp4
+*.json
+
